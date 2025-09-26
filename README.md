@@ -14,6 +14,6 @@ CNTF folder contains CROSS_SECTION, FITTING and EXPERIMENT_MODEL subfolders.
   
   C. EXPERIMENT_MODEL includes xlsx files collecting data from tests on twisted CNTF fibers, the pol file (see previous point) and two Matlab script.
   
-      C1. Script_CNTF_EXPERIMENTS plots the experimental results (output is a figure).
+      1. Script_CNTF_EXPERIMENTS plots the experimental results (output is a figure).
       
-      C2. Script_CNTF_MODEL compares the theoretical model with experimental results (output is a figure).
+      2. Script_CNTF_MODEL compares the theoretical model with experimental results (output is a figure).
